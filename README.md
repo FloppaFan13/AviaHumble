@@ -5,9 +5,9 @@ I am a developer from the UK who loves to explore the world of programming and m
 🌀: C++.
 
 ### And I have learnt...
-😉: JavaScript (NodeJS and general),
-😙: Python (I use this with my Rpi)
-🏌️‍: Java (tried to, at least)
+😉: JavaScript (NodeJS and general),  <br>
+😙: Python (I use this with my Rpi)  <br> 
+🏌️‍: Java (tried to, at least)  <br>
 
 # Here are my GitHub stats.
 
