@@ -2,7 +2,7 @@
 I am a developer from the UK who loves to explore the world of programming and mostly, giving up on projects.
 
 ## I am learning...
-🌀: C++.
+🌀: CSharp (more specifically Unity).
 
 ### And I have learnt...
 😉: JavaScript (NodeJS and general),  <br>
