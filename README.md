@@ -1,4 +1,4 @@
-# Hey. I'm AviaHumble.
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. I'm AviaHumble.
 I am a developer from the UK who loves to explore the world of programming and mostly, giving up on projects.
 
 ## I am learning...
