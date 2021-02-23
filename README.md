@@ -4,7 +4,7 @@ I am a developer from the UK who loves to explore the world of programming and m
 I am also an inspiring Game Developer, and I lead the game development company, Oryx.
 
 
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/OS-Windows/Mac/Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## I am learning...
