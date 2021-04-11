@@ -8,8 +8,8 @@ I am also an inspiring Game Developer, and I lead the game development company, 
 ![](https://img.shields.io/badge/OS-Windows/Mac/Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSharp/JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## I am learning...
-🌀: CSharp (more specifically Unity).
+## I specialise in
+C#
 
 ### And I have learnt...
 JS: JavaScript (NodeJS and general),  <br>
