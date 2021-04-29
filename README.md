@@ -6,7 +6,7 @@ I am also an inspiring Game Developer, and I lead the game development company, 
 
 ![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/OS-Windows/Mac/Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-C#-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-CS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## I specialise in
 C#
