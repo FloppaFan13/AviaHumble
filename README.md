@@ -6,17 +6,10 @@ I am also an inspiring Game Developer, and I lead the game development company, 
 
 ![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/OS-Windows/Mac/Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-CSharp/JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C#-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## I specialise in
 C#
-
-### And I have learnt...
-JS: JavaScript (NodeJS and general),  <br>
-PY: Python (I use this with my Rpi)  <br> 
-JAVA: Java (tried to, at least)  <br>
-LUA: Lua (Roblox, stopped since) <br>
-TS: I use TS often with Angular still, but do not use it primarily anymore <br>
 
 # Here are my GitHub stats.
 
