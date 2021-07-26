@@ -15,3 +15,7 @@ C#
 # Languages I Mostly Publish On.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AviaHumble)](https://github.com/AviaHumble/AviaHumble)
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/396342661054988319)](https://discord.com/users/396342661054988319)
+
