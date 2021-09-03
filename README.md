@@ -10,11 +10,11 @@ C#
 
 # Here are my GitHub stats.
 
-[![AviaHumble's github stats](https://github-readme-stats.vercel.app/api?username=AviaHumble&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![FloppaFan13's github stats](https://github-readme-stats.vercel.app/api?username=FloppaFan13&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 # Languages I Mostly Publish On.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AviaHumble)](https://github.com/AviaHumble/AviaHumble)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloppaFan13)](https://github.com/FloppaFan13/FloppaFan13)
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/396342661054988319)](https://discord.com/users/396342661054988319)
